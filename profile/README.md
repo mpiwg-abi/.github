@@ -9,4 +9,4 @@ corresponding to MPI handles, constants, functions, etc.
 It also includes the topic of launchers (i.e. `mpirun` and `mpiexec`), although this problem
 is largely independent of the ABI issue itself (and is already solved by launchers like `srun`).
 
-The chair of the working group is Jeff Hammond.
+The chairs of the working group are Jeff Hammond and Quincey Koziol. 
