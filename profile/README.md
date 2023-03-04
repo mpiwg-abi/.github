@@ -10,3 +10,5 @@ It also includes the topic of launchers (i.e. `mpirun` and `mpiexec`), although 
 is largely independent of the ABI issue itself (and is already solved by launchers like `srun`).
 
 The chairs of the working group are Jeff Hammond and Quincey Koziol. 
+
+https://lists.mpi-forum.org/mailman/listinfo/mpiwg-abi is our public email list.
